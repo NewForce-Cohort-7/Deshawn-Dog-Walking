@@ -9,7 +9,7 @@ const database = {
     walkers: [{
         id: 1,
         name: "Alphonse Meron",
-        email: "ameron0@mashable.com"
+        email: "ameron0@mashable.com",
     }, {
         id: 2,
         name: "Damara Pentecust",
@@ -114,7 +114,7 @@ const database = {
         { id: 11, walkerId: 6, cityId: 9 },
         { id: 12, walkerId: 9, cityId: 7 },
         { id: 13, walkerId: 5, cityId: 7 },
-        { id: 14, walkerId: 10, cityId: 2 },
+        { id: 14, walkerId: 10, cityId: 2 }
     ]
 }
 
